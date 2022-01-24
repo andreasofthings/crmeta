@@ -1,14 +1,19 @@
 from behave import *
 
-@given('we have behave installed')
+
+Scenario: Add a contact
+     Given we have a new contact
+      When we add the new contact
+      Then crmeta will allow us to add that contact!
+        
+@given('we have a new contact')
 def step_impl(context):
     pass
 
-@when('we implement a test')
+@when('we add the new contact')
 def step_impl(context):
     assert True is not False
 
-@then('behave will test it for us!')
+@then('crmeta will allow us to add that contact!')
 def step_impl(context):
     assert context.failed is False
-
