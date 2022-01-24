@@ -1,6 +1,6 @@
-Feature: showing off behave
+Feature: Contact Management
 
-  Scenario: run a simple test
-     Given we have behave installed
-      When we implement a test
-      Then behave will test it for us!
+  Scenario: Add a contact
+     Given we have a new contact
+      When we add the new contact
+      Then crmeta will allow us to add that contact!
