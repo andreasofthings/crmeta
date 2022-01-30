@@ -1,6 +1,6 @@
 
 
-def getSecrets(
+def getSecret(
     projectName: str = None,
     secretName: str = None,
     version: str = "latest"
