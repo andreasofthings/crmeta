@@ -1,5 +1,9 @@
 # crmeta
 
+## test
+
+```tox```
+
 ## build
 
 ```python3 -m build``` 
