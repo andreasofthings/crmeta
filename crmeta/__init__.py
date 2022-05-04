@@ -18,7 +18,7 @@ def getGoogleService(
     provider: str = "Google",
     providerNumber: int = 0,
     accountNumber: int = 0
-) -> :
+) -> str:
     """
     provider: Defaults to Google
     providerNumber: could be connected to multiple Providers, index to further
