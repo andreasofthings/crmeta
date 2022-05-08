@@ -1,3 +1,4 @@
 include LICENSE
+recursive-include crmeta/ *
 recursive-include crmeta/static *
 recursive-include crmeta/templates *
