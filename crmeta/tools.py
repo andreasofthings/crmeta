@@ -1,11 +1,15 @@
-def timeStampFromParsed(parsed: tuple) -> float:
-    import time
-    import datetime
-    from dateutil.parser import parse
+import time
+from datetime import datetime
+from dateutil.parser import parse
 
+
+def timeStampFromParsed(parsed: tuple) -> float:
+    """
+    """
     if isinstance(parsed, time.struct_time):
-        return datetime.fromtimestamp(time.mktime(parsed))
+        result = datetime.fromtimestamp(time.mktime(parsed))
     elif isinstance(parsed, str):
-        return parse(parsed)
+        result = parse(parsed)
     else:
-        return parsed
+        result = parsed
+    return result
