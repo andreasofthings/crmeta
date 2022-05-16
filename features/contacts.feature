@@ -1,7 +1,7 @@
 @crm @contacts 
 Feature: Contact Management
   Contact Management provides functionality to manage contact details.
-  The feature is accessible through Django Admin in first place, but also a DRF API.
+  The feature is accessible through Django Admin in first place, but also a Django Rest Framework API.
 
   Background: the contact database is already filled with some contacts
     Given a client works with the component
