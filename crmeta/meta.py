@@ -1,3 +1,6 @@
+from django.utils.translation import gettext_lazy as _
+
+
 COUNTRIES = (
     ("GB", _("United Kingdom")),
     ("AF", _("Afghanistan")),
