@@ -1,0 +1,1002 @@
+# Common Relatable Models
+# Copyright (C) 2022
+# This file is distributed under the same license as the `crmeta` package.
+# Andreas Neumeier <andreas@neumeier.org>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 13:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: crmeta/meta.py:5
+msgid "United Kingdom"
+msgstr ""
+
+#: crmeta/meta.py:6
+msgid "Afghanistan"
+msgstr ""
+
+#: crmeta/meta.py:7
+msgid "Aland Islands"
+msgstr ""
+
+#: crmeta/meta.py:8
+msgid "Albania"
+msgstr ""
+
+#: crmeta/meta.py:9
+msgid "Algeria"
+msgstr ""
+
+#: crmeta/meta.py:10
+msgid "American Samoa"
+msgstr ""
+
+#: crmeta/meta.py:11
+msgid "Andorra"
+msgstr ""
+
+#: crmeta/meta.py:12
+msgid "Angola"
+msgstr ""
+
+#: crmeta/meta.py:13
+msgid "Anguilla"
+msgstr ""
+
+#: crmeta/meta.py:14
+msgid "Antarctica"
+msgstr ""
+
+#: crmeta/meta.py:15
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: crmeta/meta.py:16
+msgid "Argentina"
+msgstr ""
+
+#: crmeta/meta.py:17
+msgid "Armenia"
+msgstr ""
+
+#: crmeta/meta.py:18
+msgid "Aruba"
+msgstr ""
+
+#: crmeta/meta.py:19
+msgid "Australia"
+msgstr ""
+
+#: crmeta/meta.py:20
+msgid "Austria"
+msgstr ""
+
+#: crmeta/meta.py:21
+msgid "Azerbaijan"
+msgstr ""
+
+#: crmeta/meta.py:22
+msgid "Bahamas"
+msgstr ""
+
+#: crmeta/meta.py:23
+msgid "Bahrain"
+msgstr ""
+
+#: crmeta/meta.py:24
+msgid "Bangladesh"
+msgstr ""
+
+#: crmeta/meta.py:25
+msgid "Barbados"
+msgstr ""
+
+#: crmeta/meta.py:26
+msgid "Belarus"
+msgstr ""
+
+#: crmeta/meta.py:27
+msgid "Belgium"
+msgstr ""
+
+#: crmeta/meta.py:28
+msgid "Belize"
+msgstr ""
+
+#: crmeta/meta.py:29
+msgid "Benin"
+msgstr ""
+
+#: crmeta/meta.py:30
+msgid "Bermuda"
+msgstr ""
+
+#: crmeta/meta.py:31
+msgid "Bhutan"
+msgstr ""
+
+#: crmeta/meta.py:32
+msgid "Bolivia"
+msgstr ""
+
+#: crmeta/meta.py:33
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: crmeta/meta.py:34
+msgid "Botswana"
+msgstr ""
+
+#: crmeta/meta.py:35
+msgid "Bouvet Island"
+msgstr ""
+
+#: crmeta/meta.py:36
+msgid "Brazil"
+msgstr ""
+
+#: crmeta/meta.py:37
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: crmeta/meta.py:38
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: crmeta/meta.py:39
+msgid "Bulgaria"
+msgstr ""
+
+#: crmeta/meta.py:40
+msgid "Burkina Faso"
+msgstr ""
+
+#: crmeta/meta.py:41
+msgid "Burundi"
+msgstr ""
+
+#: crmeta/meta.py:42
+msgid "Cambodia"
+msgstr ""
+
+#: crmeta/meta.py:43
+msgid "Cameroon"
+msgstr ""
+
+#: crmeta/meta.py:44
+msgid "Canada"
+msgstr ""
+
+#: crmeta/meta.py:45
+msgid "Cape Verde"
+msgstr ""
+
+#: crmeta/meta.py:46
+msgid "Cayman Islands"
+msgstr ""
+
+#: crmeta/meta.py:47
+msgid "Central African Republic"
+msgstr ""
+
+#: crmeta/meta.py:48
+msgid "Chad"
+msgstr ""
+
+#: crmeta/meta.py:49
+msgid "Chile"
+msgstr ""
+
+#: crmeta/meta.py:50
+msgid "China"
+msgstr ""
+
+#: crmeta/meta.py:51
+msgid "Christmas Island"
+msgstr ""
+
+#: crmeta/meta.py:52
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: crmeta/meta.py:53
+msgid "Colombia"
+msgstr ""
+
+#: crmeta/meta.py:54
+msgid "Comoros"
+msgstr ""
+
+#: crmeta/meta.py:55
+msgid "Congo"
+msgstr ""
+
+#: crmeta/meta.py:56
+msgid "Congo, The Democratic Republic of the"
+msgstr ""
+
+#: crmeta/meta.py:57
+msgid "Cook Islands"
+msgstr ""
+
+#: crmeta/meta.py:58
+msgid "Costa Rica"
+msgstr ""
+
+#: crmeta/meta.py:59
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: crmeta/meta.py:60
+msgid "Croatia"
+msgstr ""
+
+#: crmeta/meta.py:61
+msgid "Cuba"
+msgstr ""
+
+#: crmeta/meta.py:62
+msgid "Cyprus"
+msgstr ""
+
+#: crmeta/meta.py:63
+msgid "Czech Republic"
+msgstr ""
+
+#: crmeta/meta.py:64
+msgid "Denmark"
+msgstr ""
+
+#: crmeta/meta.py:65
+msgid "Djibouti"
+msgstr ""
+
+#: crmeta/meta.py:66
+msgid "Dominica"
+msgstr ""
+
+#: crmeta/meta.py:67
+msgid "Dominican Republic"
+msgstr ""
+
+#: crmeta/meta.py:68
+msgid "Ecuador"
+msgstr ""
+
+#: crmeta/meta.py:69
+msgid "Egypt"
+msgstr ""
+
+#: crmeta/meta.py:70
+msgid "El Salvador"
+msgstr ""
+
+#: crmeta/meta.py:71
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: crmeta/meta.py:72
+msgid "Eritrea"
+msgstr ""
+
+#: crmeta/meta.py:73
+msgid "Estonia"
+msgstr ""
+
+#: crmeta/meta.py:74
+msgid "Ethiopia"
+msgstr ""
+
+#: crmeta/meta.py:75
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: crmeta/meta.py:76
+msgid "Faroe Islands"
+msgstr ""
+
+#: crmeta/meta.py:77
+msgid "Fiji"
+msgstr ""
+
+#: crmeta/meta.py:78
+msgid "Finland"
+msgstr ""
+
+#: crmeta/meta.py:79
+msgid "France"
+msgstr ""
+
+#: crmeta/meta.py:80
+msgid "French Guiana"
+msgstr ""
+
+#: crmeta/meta.py:81
+msgid "French Polynesia"
+msgstr ""
+
+#: crmeta/meta.py:82
+msgid "French Southern Territories"
+msgstr ""
+
+#: crmeta/meta.py:83
+msgid "Gabon"
+msgstr ""
+
+#: crmeta/meta.py:84
+msgid "Gambia"
+msgstr ""
+
+#: crmeta/meta.py:85
+msgid "Georgia"
+msgstr ""
+
+#: crmeta/meta.py:86
+msgid "Germany"
+msgstr ""
+
+#: crmeta/meta.py:87
+msgid "Ghana"
+msgstr ""
+
+#: crmeta/meta.py:88
+msgid "Gibraltar"
+msgstr ""
+
+#: crmeta/meta.py:89
+msgid "Greece"
+msgstr ""
+
+#: crmeta/meta.py:90
+msgid "Greenland"
+msgstr ""
+
+#: crmeta/meta.py:91
+msgid "Grenada"
+msgstr ""
+
+#: crmeta/meta.py:92
+msgid "Guadeloupe"
+msgstr ""
+
+#: crmeta/meta.py:93
+msgid "Guam"
+msgstr ""
+
+#: crmeta/meta.py:94
+msgid "Guatemala"
+msgstr ""
+
+#: crmeta/meta.py:95
+msgid "Guernsey"
+msgstr ""
+
+#: crmeta/meta.py:96
+msgid "Guinea"
+msgstr ""
+
+#: crmeta/meta.py:97
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: crmeta/meta.py:98
+msgid "Guyana"
+msgstr ""
+
+#: crmeta/meta.py:99
+msgid "Haiti"
+msgstr ""
+
+#: crmeta/meta.py:100
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: crmeta/meta.py:101
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: crmeta/meta.py:102
+msgid "Honduras"
+msgstr ""
+
+#: crmeta/meta.py:103
+msgid "Hong Kong"
+msgstr ""
+
+#: crmeta/meta.py:104
+msgid "Hungary"
+msgstr ""
+
+#: crmeta/meta.py:105
+msgid "Iceland"
+msgstr ""
+
+#: crmeta/meta.py:106
+msgid "India"
+msgstr ""
+
+#: crmeta/meta.py:107
+msgid "Indonesia"
+msgstr ""
+
+#: crmeta/meta.py:108
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: crmeta/meta.py:109
+msgid "Iraq"
+msgstr ""
+
+#: crmeta/meta.py:110
+msgid "Ireland"
+msgstr ""
+
+#: crmeta/meta.py:111
+msgid "Isle of Man"
+msgstr ""
+
+#: crmeta/meta.py:112
+msgid "Israel"
+msgstr ""
+
+#: crmeta/meta.py:113
+msgid "Italy"
+msgstr ""
+
+#: crmeta/meta.py:114
+msgid "Jamaica"
+msgstr ""
+
+#: crmeta/meta.py:115
+msgid "Japan"
+msgstr ""
+
+#: crmeta/meta.py:116
+msgid "Jersey"
+msgstr ""
+
+#: crmeta/meta.py:117
+msgid "Jordan"
+msgstr ""
+
+#: crmeta/meta.py:118
+msgid "Kazakhstan"
+msgstr ""
+
+#: crmeta/meta.py:119
+msgid "Kenya"
+msgstr ""
+
+#: crmeta/meta.py:120
+msgid "Kiribati"
+msgstr ""
+
+#: crmeta/meta.py:121
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: crmeta/meta.py:122
+msgid "Korea, Republic of"
+msgstr ""
+
+#: crmeta/meta.py:123
+msgid "Kuwait"
+msgstr ""
+
+#: crmeta/meta.py:124
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: crmeta/meta.py:125
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: crmeta/meta.py:126
+msgid "Latvia"
+msgstr ""
+
+#: crmeta/meta.py:127
+msgid "Lebanon"
+msgstr ""
+
+#: crmeta/meta.py:128
+msgid "Lesotho"
+msgstr ""
+
+#: crmeta/meta.py:129
+msgid "Liberia"
+msgstr ""
+
+#: crmeta/meta.py:130
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: crmeta/meta.py:131
+msgid "Liechtenstein"
+msgstr ""
+
+#: crmeta/meta.py:132
+msgid "Lithuania"
+msgstr ""
+
+#: crmeta/meta.py:133
+msgid "Luxembourg"
+msgstr ""
+
+#: crmeta/meta.py:134
+msgid "Macao"
+msgstr ""
+
+#: crmeta/meta.py:135
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr ""
+
+#: crmeta/meta.py:136
+msgid "Madagascar"
+msgstr ""
+
+#: crmeta/meta.py:137
+msgid "Malawi"
+msgstr ""
+
+#: crmeta/meta.py:138
+msgid "Malaysia"
+msgstr ""
+
+#: crmeta/meta.py:139
+msgid "Maldives"
+msgstr ""
+
+#: crmeta/meta.py:140
+msgid "Mali"
+msgstr ""
+
+#: crmeta/meta.py:141
+msgid "Malta"
+msgstr ""
+
+#: crmeta/meta.py:142
+msgid "Marshall Islands"
+msgstr ""
+
+#: crmeta/meta.py:143
+msgid "Martinique"
+msgstr ""
+
+#: crmeta/meta.py:144
+msgid "Mauritania"
+msgstr ""
+
+#: crmeta/meta.py:145
+msgid "Mauritius"
+msgstr ""
+
+#: crmeta/meta.py:146
+msgid "Mayotte"
+msgstr ""
+
+#: crmeta/meta.py:147
+msgid "Mexico"
+msgstr ""
+
+#: crmeta/meta.py:148
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: crmeta/meta.py:149
+msgid "Moldova"
+msgstr ""
+
+#: crmeta/meta.py:150
+msgid "Monaco"
+msgstr ""
+
+#: crmeta/meta.py:151
+msgid "Mongolia"
+msgstr ""
+
+#: crmeta/meta.py:152
+msgid "Montenegro"
+msgstr ""
+
+#: crmeta/meta.py:153
+msgid "Montserrat"
+msgstr ""
+
+#: crmeta/meta.py:154
+msgid "Morocco"
+msgstr ""
+
+#: crmeta/meta.py:155
+msgid "Mozambique"
+msgstr ""
+
+#: crmeta/meta.py:156
+msgid "Myanmar"
+msgstr ""
+
+#: crmeta/meta.py:157
+msgid "Namibia"
+msgstr ""
+
+#: crmeta/meta.py:158
+msgid "Nauru"
+msgstr ""
+
+#: crmeta/meta.py:159
+msgid "Nepal"
+msgstr ""
+
+#: crmeta/meta.py:160
+msgid "Netherlands"
+msgstr ""
+
+#: crmeta/meta.py:161
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: crmeta/meta.py:162
+msgid "New Caledonia"
+msgstr ""
+
+#: crmeta/meta.py:163
+msgid "New Zealand"
+msgstr ""
+
+#: crmeta/meta.py:164
+msgid "Nicaragua"
+msgstr ""
+
+#: crmeta/meta.py:165
+msgid "Niger"
+msgstr ""
+
+#: crmeta/meta.py:166
+msgid "Nigeria"
+msgstr ""
+
+#: crmeta/meta.py:167
+msgid "Niue"
+msgstr ""
+
+#: crmeta/meta.py:168
+msgid "Norfolk Island"
+msgstr ""
+
+#: crmeta/meta.py:169
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: crmeta/meta.py:170
+msgid "Norway"
+msgstr ""
+
+#: crmeta/meta.py:171
+msgid "Oman"
+msgstr ""
+
+#: crmeta/meta.py:172
+msgid "Pakistan"
+msgstr ""
+
+#: crmeta/meta.py:173
+msgid "Palau"
+msgstr ""
+
+#: crmeta/meta.py:174
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#: crmeta/meta.py:175
+msgid "Panama"
+msgstr ""
+
+#: crmeta/meta.py:176
+msgid "Papua New Guinea"
+msgstr ""
+
+#: crmeta/meta.py:177
+msgid "Paraguay"
+msgstr ""
+
+#: crmeta/meta.py:178
+msgid "Peru"
+msgstr ""
+
+#: crmeta/meta.py:179
+msgid "Philippines"
+msgstr ""
+
+#: crmeta/meta.py:180
+msgid "Pitcairn"
+msgstr ""
+
+#: crmeta/meta.py:181
+msgid "Poland"
+msgstr ""
+
+#: crmeta/meta.py:182
+msgid "Portugal"
+msgstr ""
+
+#: crmeta/meta.py:183
+msgid "Puerto Rico"
+msgstr ""
+
+#: crmeta/meta.py:184
+msgid "Qatar"
+msgstr ""
+
+#: crmeta/meta.py:185
+msgid "Reunion"
+msgstr ""
+
+#: crmeta/meta.py:186
+msgid "Romania"
+msgstr ""
+
+#: crmeta/meta.py:187
+msgid "Russian Federation"
+msgstr ""
+
+#: crmeta/meta.py:188
+msgid "Rwanda"
+msgstr ""
+
+#: crmeta/meta.py:189
+msgid "Saint Barthelemy"
+msgstr ""
+
+#: crmeta/meta.py:190
+msgid "Saint Helena"
+msgstr ""
+
+#: crmeta/meta.py:191
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: crmeta/meta.py:192
+msgid "Saint Lucia"
+msgstr ""
+
+#: crmeta/meta.py:193
+msgid "Saint Martin"
+msgstr ""
+
+#: crmeta/meta.py:194
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: crmeta/meta.py:195
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: crmeta/meta.py:196
+msgid "Samoa"
+msgstr ""
+
+#: crmeta/meta.py:197
+msgid "San Marino"
+msgstr ""
+
+#: crmeta/meta.py:198
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: crmeta/meta.py:199
+msgid "Saudi Arabia"
+msgstr ""
+
+#: crmeta/meta.py:200
+msgid "Senegal"
+msgstr ""
+
+#: crmeta/meta.py:201
+msgid "Serbia"
+msgstr ""
+
+#: crmeta/meta.py:202
+msgid "Seychelles"
+msgstr ""
+
+#: crmeta/meta.py:203
+msgid "Sierra Leone"
+msgstr ""
+
+#: crmeta/meta.py:204
+msgid "Singapore"
+msgstr ""
+
+#: crmeta/meta.py:205
+msgid "Slovakia"
+msgstr ""
+
+#: crmeta/meta.py:206
+msgid "Slovenia"
+msgstr ""
+
+#: crmeta/meta.py:207
+msgid "Solomon Islands"
+msgstr ""
+
+#: crmeta/meta.py:208
+msgid "Somalia"
+msgstr ""
+
+#: crmeta/meta.py:209
+msgid "South Africa"
+msgstr ""
+
+#: crmeta/meta.py:210
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: crmeta/meta.py:211
+msgid "Spain"
+msgstr ""
+
+#: crmeta/meta.py:212
+msgid "Sri Lanka"
+msgstr ""
+
+#: crmeta/meta.py:213
+msgid "Sudan"
+msgstr ""
+
+#: crmeta/meta.py:214
+msgid "Suriname"
+msgstr ""
+
+#: crmeta/meta.py:215
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: crmeta/meta.py:216
+msgid "Swaziland"
+msgstr ""
+
+#: crmeta/meta.py:217
+msgid "Sweden"
+msgstr ""
+
+#: crmeta/meta.py:218
+msgid "Switzerland"
+msgstr ""
+
+#: crmeta/meta.py:219
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: crmeta/meta.py:220
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: crmeta/meta.py:221
+msgid "Tajikistan"
+msgstr ""
+
+#: crmeta/meta.py:222
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: crmeta/meta.py:223
+msgid "Thailand"
+msgstr ""
+
+#: crmeta/meta.py:224
+msgid "Timor-Leste"
+msgstr ""
+
+#: crmeta/meta.py:225
+msgid "Togo"
+msgstr ""
+
+#: crmeta/meta.py:226
+msgid "Tokelau"
+msgstr ""
+
+#: crmeta/meta.py:227
+msgid "Tonga"
+msgstr ""
+
+#: crmeta/meta.py:228
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: crmeta/meta.py:229
+msgid "Tunisia"
+msgstr ""
+
+#: crmeta/meta.py:230
+msgid "Turkey"
+msgstr ""
+
+#: crmeta/meta.py:231
+msgid "Turkmenistan"
+msgstr ""
+
+#: crmeta/meta.py:232
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: crmeta/meta.py:233
+msgid "Tuvalu"
+msgstr ""
+
+#: crmeta/meta.py:234
+msgid "Uganda"
+msgstr ""
+
+#: crmeta/meta.py:235
+msgid "Ukraine"
+msgstr ""
+
+#: crmeta/meta.py:236
+msgid "United Arab Emirates"
+msgstr ""
+
+#: crmeta/meta.py:237
+msgid "United States"
+msgstr ""
+
+#: crmeta/meta.py:238
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: crmeta/meta.py:239
+msgid "Uruguay"
+msgstr ""
+
+#: crmeta/meta.py:240
+msgid "Uzbekistan"
+msgstr ""
+
+#: crmeta/meta.py:241
+msgid "Vanuatu"
+msgstr ""
+
+#: crmeta/meta.py:242
+msgid "Venezuela"
+msgstr ""
+
+#: crmeta/meta.py:243
+msgid "Viet Nam"
+msgstr ""
+
+#: crmeta/meta.py:244
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: crmeta/meta.py:245
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: crmeta/meta.py:246
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: crmeta/meta.py:247
+msgid "Western Sahara"
+msgstr ""
+
+#: crmeta/meta.py:248
+msgid "Yemen"
+msgstr ""
+
+#: crmeta/meta.py:249
+msgid "Zambia"
+msgstr ""
+
+#: crmeta/meta.py:250
+msgid "Zimbabwe"
+msgstr ""
